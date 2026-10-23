@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Vulnérabilité de sécurité · Security vulnerability
+    url: https://github.com/olivierouellet/Risque-de-feu-Carte/security/advisories/new
+    about: N’ouvrez pas d’issue publique; signalez-la ici en privé (voir SECURITY.md). · Don't open a public issue; report it privately here (see SECURITY.md).
+  - name: Problème avec l’intégration · Problem with the integration
+    url: https://github.com/olivierouellet/Risque-de-feu/issues
+    about: L’intégration Risque de feu a son propre dépôt. · The Risque de feu integration has its own repository.
+  - name: Danger officiel · Official fire danger
+    url: https://www.sopfeu.qc.ca/prevention/danger-incendie/
+    about: Le danger et les mesures viennent de la SOPFEU; la carte ne fait que les afficher. · The danger and measures come from SOPFEU; the card only shows them.

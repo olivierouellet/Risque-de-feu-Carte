@@ -1,0 +1,7 @@
+{
+  "name": "Risque-de-feu-Carte",
+  "country": ["CA"],
+  "render_readme": true,
+  "filename": "risque-de-feu-carte.js",
+  "homeassistant": "2025.1.0"
+}
