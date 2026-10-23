@@ -6,7 +6,7 @@
 
 ## Français
 
-Merci de votre intérêt! En participant, vous acceptez le [code de conduite](CODE_OF_CONDUCT.md).
+Merci de votre intérêt! En participant, vous acceptez le [code de conduite](CODE_OF_CONDUCT.md). Vous utilisez l’IA? Lisez la [politique sur l’IA](AI_POLICY.md).
 Les issues et les demandes de tirage sont bienvenues en français ou en anglais.
 
 ### Installation
@@ -32,7 +32,7 @@ yarn start   # page de test sur http://localhost:5050/ (?dark&lang=en&width=320)
 
 ## English
 
-Thanks for your interest! By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
+Thanks for your interest! By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md). Using AI tools? Read the [AI policy](AI_POLICY.md).
 Issues and pull requests are welcome in French or English.
 
 ### Setup
